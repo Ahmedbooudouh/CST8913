@@ -45,7 +45,7 @@ and other key questions about dependencies, security, the current cost, and the 
  
  ## 4. Migration Approach
 
- The most likely migration approach for Ramp is Rebuilding. Ramp created a new OCR tool and automated workflows by using Azure AI services. This approach was chosen because it allowed them to modernize their system, gain scalability, improve accuracy, and reduce manual work instead of just moving old systems into the cloud.
+The most suitable migration approach for Ramp was Rebuilding. Instead of lifting and shifting old systems, Ramp created a new OCR tool and automated workflows directly in the cloud. To achieve this, the company used a Platform as a Service (PaaS) model, taking advantage of Azure AI services such as Document Intelligence. This allowed Ramp to build and deploy a modern solution quickly, without managing infrastructure like servers or storage. By aligning its processes with the cloud delivery model, Ramp reduced time-to-market and ensured scalability and accuracy.
 
  ## 5. High-Level Schedule 
 
