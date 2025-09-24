@@ -11,7 +11,6 @@ The lab demonstrates how to discover and assess an existing system (compnents an
 - Propose a hybrid migration plan by combining IaaS, PaaS, and SaaS services.  
 - Justify decisions for each component based on control, scalability, and modernization.  
 
-## reflexion
-I think this lab prepare us to next lessons about discovery and assessment process of cloud
-migration.
+## Reflection
+I think this lab prepares us for the next lessons about discovery and the assessment process of cloud migration.  
   
