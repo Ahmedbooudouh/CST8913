@@ -26,8 +26,7 @@
 | 22 | A set of machine learning and AI services that provide pre-built models, APIs, and tools for developers to easily implement AI in their apps. | AWS SageMaker | Azure Machine Learning| Google Vertex AI |
 | 23 | A service that allows you to define and deploy infrastructure using code, automating the management of cloud resources. |AWS CloudFormation  |Azure Resource Manager  | Google Cloud Deployment Manager |
 | 24 | A fully managed CI/CD service that automates the building, testing, and deployment of applications to production environments. |AWS CodePipeline |Azure Pipelines   |Google Cloud Build  |
-| 25 | A desktop as a service (DaaS) offering that allows you to deploy virtual desktops in the cloud and access them remotely. |Amazon WorkSpaces  |Azure Virtual Desktop  |Google Cloud Workstations
-  |
+| 25 | A desktop as a service (DaaS) offering that allows you to deploy virtual desktops in the cloud and access them remotely. |Amazon WorkSpaces  |Azure Virtual Desktop  |Google Cloud Workstations |
 | 26 | A backup and disaster recovery service that helps to protect your data by creating backups and replicas of your cloud resources. |AWS Backup  |Azure Backup  | Google Cloud Backup and DR  |
 | 27 | A service designed for big data analytics, allowing organizations to store, process, and analyze large datasets in real time. |Amazon Kinesis Data Analytics  |Azure Stream Analytics  |Google Dataflow  |
 | 28 | A file storage service for storing and sharing files with users, typically used in shared file systems across applications. |Amazon Elastic File System |Azure Files   |Google Cloud Filestore  |
